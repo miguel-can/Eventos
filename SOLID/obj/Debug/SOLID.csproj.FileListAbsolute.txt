@@ -1,0 +1,6 @@
+c:\users\miguel.can\documents\visual studio 2015\Projects\SOLID\SOLID\bin\Debug\SOLID.exe.config
+c:\users\miguel.can\documents\visual studio 2015\Projects\SOLID\SOLID\bin\Debug\SOLID.exe
+c:\users\miguel.can\documents\visual studio 2015\Projects\SOLID\SOLID\bin\Debug\SOLID.pdb
+c:\users\miguel.can\documents\visual studio 2015\Projects\SOLID\SOLID\obj\Debug\SOLID.csprojResolveAssemblyReference.cache
+c:\users\miguel.can\documents\visual studio 2015\Projects\SOLID\SOLID\obj\Debug\SOLID.exe
+c:\users\miguel.can\documents\visual studio 2015\Projects\SOLID\SOLID\obj\Debug\SOLID.pdb
